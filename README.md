@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
 
-## Proyectos Geniales
+## Proyectos Desarrollados
 <table width="100%">
   <tbody>
     <tr>
@@ -119,10 +119,12 @@
 
 ## 📊 Mis estadísticas en GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thompsonemerson&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thompsonemerson&theme=radical"/>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thompsonemerson&theme=radical" height="150"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 5 espacios -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thompsonemerson&layout=compact&theme=radical" height="150"/>
 </p>
+
 
 ## 📫 Contáctame
 
