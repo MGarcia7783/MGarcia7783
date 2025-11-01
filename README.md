@@ -91,28 +91,46 @@
       </td>
     </tr>
     <tr>
-      <!-- POS adaptado al 50% y centrado -->
-      <td colspan="2">
-        <div align="center" style="width:50%; margin:auto;">
-          <h3 align="center">SISTEMA PUNTO DE VENTA</h3>
-          <div align="center">
-            <a href="https://github.com/MGarcia7783/PosEscritorio">
-              <img src="https://raw.githubusercontent.com/MGarcia7783/MGarcia7783/main/pos_escritorio.png" width="400" height="250" style="object-fit: cover;" alt="POS">
+      <!-- POS-->
+      <td width="50%">
+        <h3 align="center">FRONTEND / SISTEMA DE VENTAS</h3>
+        <div align="center">
+          <a href="https://github.com/MGarcia7783/PosEscritorio">
+            <img src="https://raw.githubusercontent.com/MGarcia7783/MGarcia7783/main/pos_escritorio.png" width="400" height="250" style="object-fit: cover;" alt="POS">
+          </a>
+          <p>
+            <a href="https://github.com/MGarcia7783/PuntoVenta">
+              <img src="https://img.shields.io/badge/-CÓDIGO-F7DF1E?style=for-the-badge&logo=github&logoColor=black">
             </a>
-            <p>
-              <a href="https://github.com/MGarcia7783/PuntoVenta">
-                <img src="https://img.shields.io/badge/-CÓDIGO-F7DF1E?style=for-the-badge&logo=github&logoColor=black">
-              </a>
-              <a href="https://youtube.com/playlist?list=PLYF5u-YnYUgumOz9LB5HvahLBaTqoLvTO&si=Yv600mJ6QKS8R0oo" target="_blank">
-                <img src="https://img.shields.io/badge/-YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-              </a>
-            </p>
-            <p>
-              <sub>Sistema de Punto de Venta de escritorio desarrollado en C# Windows Forms con Guna UI y FontAwesome. Arquitectura N-Capas para un código organizado y escalable.</sub>
-            </p>
-          </div>
+            <a href="https://youtube.com/playlist?list=PLYF5u-YnYUgumOz9LB5HvahLBaTqoLvTO&si=Yv600mJ6QKS8R0oo" target="_blank">
+              <img src="https://img.shields.io/badge/-YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+            </a>
+          </p>
+          <p>
+            <sub>Sistema de Punto de Venta de escritorio desarrollado en C# Windows Forms con Guna UI y FontAwesome. Arquitectura N-Capas para un código organizado y escalable.</sub>
+          </p>
         </div>
       </td>
+      <!-- EduStore -->
+      <td width="50%">
+        <h3 align="center">EDUSTORE / CARRITO DE COMPRAS</h3>
+        <div align="center">
+          <a href="https://github.com/MGarcia7783/EduStore">
+            <img src="https://raw.githubusercontent.com/MGarcia7783/MGarcia7783/refs/heads/main/edustore.png" width="400" height="250" style="object-fit: cover;" alt="Carrito de compras">
+          </a>
+          <p>
+            <a href="https://github.com/MGarcia7783/EduStore">
+              <img src="https://img.shields.io/badge/-CÓDIGO-F7DF1E?style=for-the-badge&logo=github&logoColor=black">
+            </a>
+            <a href="https://www.youtube.com/playlist?list=PLYF5u-YnYUgv0jhqb2er6_DTVXtHYCWPj" target="_blank">
+              <img src="https://img.shields.io/badge/-YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+            </a>
+          </p>
+          <p>
+            <sub>EduStore, es un proyecto académico desarrollado en Angular 20 y JSON Server para la gestión de productos, carrito de compras y pedidos.</sub>
+          </p>
+        </div>
+      </td> 
     </tr>
   </tbody>
 </table>
